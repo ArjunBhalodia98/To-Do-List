@@ -1,0 +1,30 @@
+[
+    {
+        "id": "3615D2F3-6958-4742-92E5-93076CAAF727",
+        "title": "Go Grocery Shopping",
+        "description": "Barbecue sauce; Brown rice; Extra virgin olive oil, canola oil, nonfat cooking spray; Ground turkey or chicken; Hot pepper sauce; Jarred capers and olives; Mustard; Red-wine vinegar; Reduced-sodium lunchmeat (turkey, roast beef); Salmon, halibut, trout, mackerel, or your favorite seafood; Salsa; Skinless chicken or turkey breasts; Steel-cut or instant oatmeal; Tomato sauce; Whole wheat or whole-grain pasta; Whole-grain cereal bars; Whole-grain or multigrain cereals.",
+        "completed": true,
+        "dueDateAndTime": "2020-09-06 at 20:00"
+    },
+    {
+        "id": "F94E797E-9E45-4477-82A4-0CA91FA7EF81",
+        "title": "Get Ready for Thanksgiving Break",
+        "description": "The Thanksgiving holiday is the time period to be with the family and spend quality time with all family members.",
+        "completed": false,
+        "dueDateAndTime": "2020-11-22 at 17:00"
+    },
+    {
+        "id": "A1908E8E-301C-4F1E-AD85-281EBDDA977B",
+        "title": "Buy MacBook Pro 16-inch",
+        "description": "Buy a brand new MacBook Pro 16-inch with 16GB of 2666MHz DDR4 onboard memory, 2.3GHz 8‑core Intel Core i9 with 16MB shared L3 cache, and 512GB SSD.",
+        "completed": true,
+        "dueDateAndTime": "2020-08-15 at 14:00"
+    },
+    {
+        "id": "B9FF3C06-4187-45FD-9301-07C174F724DB",
+        "title": "Go Hiking at Cascades",
+        "description": "Cascades is a highly scenic, 4-mile round-trip trail along a shaded mountain creek to a 66-foot waterfall within Jefferson National Forest. Hike is low to moderate difficulty. Picnicking area is at the beginning of the trail.  Native trout fishing available in the Little Stony Creek.  Accessible restrooms at the trailhead. Picnic area. Water hydrant for filling water bottles available in the recreation area. Directions:  From Pembroke, turn right on VA 623 (Cascades Drive). Follow for approximately 4 miles; road ends at the recreation area.",
+        "completed": false,
+        "dueDateAndTime": "2020-12-05 at 18:00"
+    }
+]
